@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
         // it has been since we last multiplied "rotateSpeed" by -1. This sort of
         // programming technique can be called the "timer pattern" and it is
         // useful in situations where you want code to run at some interval.
-        if (Time.time - lastRotateDirectionSwitchTime > 1f)
+        if (Time.time - lastRotateDirectionSwitchTime > 1.5f)
         {
             rotateSpeed = rotateSpeed * -1;
             lastRotateDirectionSwitchTime = Time.time;
