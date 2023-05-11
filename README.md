@@ -28,8 +28,11 @@ https://github.com/Radha-cal/game615-spring2023-midterm
  [Play it here!](https://radha-cal.github.io/game615-spring2023-midterm/play/)
  
  https://github.com/Radha-cal/game615-spring2023-final
+ 
  [Play it here!](https://radha-cal.github.io/game615-spring2023-final/play/)
+
  [Trailer](https://youtu.be/t4uMeHShi0Q)
+ 
  [Windows Version select final.exe](https://github.com/Radha-cal/game615-spring2023-final/tree/main/PC/play)
  
  
