@@ -27,5 +27,7 @@ https://github.com/Radha-cal/game615-spring2023/edit/main/exercises/exercise02/R
 https://github.com/Radha-cal/game615-spring2023-midterm
  [Play it here!](https://radha-cal.github.io/game615-spring2023-midterm/play/)
  
+ https://github.com/Radha-cal/game615-spring2023-final
+ 
  
 
